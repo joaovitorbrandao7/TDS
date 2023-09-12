@@ -18,7 +18,7 @@ namespace AtividadeAPI1.Controllers
         [HttpPost("/")]
         public TaskModel Post ([FromBody] TaskModel model,
             [FromServices] AppDbContext context)
-        {
+     
             context.Tasks!.Add(model);
             context.SaveChanges();
             return model;

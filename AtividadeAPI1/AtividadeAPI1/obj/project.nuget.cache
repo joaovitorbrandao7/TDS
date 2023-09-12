@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "IYwXtSkpf7v4MBxerWvUzoNEPgSkjaUzNE0kpGh0jL17VSlVm1MgBUQeYLS/8XiXdTvgWuoHlcOBBH7hn3GnoQ==",
+  "dgSpecHash": "Po98P6lypVW3Fwru2BnRuCtytk9E4CWwyEnf5SUj7RZ9IGduKdmxkYeQUPnMQTJXRK9rKMtcrQLNhsHHsbcVxg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\JoãoVitorMacedo\\Source\\Repos\\TDS\\AtividadeAPI1\\AtividadeAPI1\\AtividadeAPI1.csproj",
+  "projectFilePath": "C:\\Users\\JoãoVitorMacedo\\source\\repos\\TDS\\Aula4\\AtividadeAPI1\\AtividadeAPI1\\AtividadeAPI1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\JoãoVitorMacedo\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\JoãoVitorMacedo\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.0\\microsoft.aspnetcore.openapi.7.0.0.nupkg.sha512",

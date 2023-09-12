@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\JoãoVitorMacedo\\Source\\Repos\\TDS\\AtividadeAPI1\\AtividadeAPI1\\AtividadeAPI1.csproj": {}
+    "C:\\Users\\JoãoVitorMacedo\\source\\repos\\TDS\\Aula4\\AtividadeAPI1\\AtividadeAPI1\\AtividadeAPI1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\JoãoVitorMacedo\\Source\\Repos\\TDS\\AtividadeAPI1\\AtividadeAPI1\\AtividadeAPI1.csproj": {
+    "C:\\Users\\JoãoVitorMacedo\\source\\repos\\TDS\\Aula4\\AtividadeAPI1\\AtividadeAPI1\\AtividadeAPI1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\JoãoVitorMacedo\\Source\\Repos\\TDS\\AtividadeAPI1\\AtividadeAPI1\\AtividadeAPI1.csproj",
+        "projectUniqueName": "C:\\Users\\JoãoVitorMacedo\\source\\repos\\TDS\\Aula4\\AtividadeAPI1\\AtividadeAPI1\\AtividadeAPI1.csproj",
         "projectName": "AtividadeAPI1",
-        "projectPath": "C:\\Users\\JoãoVitorMacedo\\Source\\Repos\\TDS\\AtividadeAPI1\\AtividadeAPI1\\AtividadeAPI1.csproj",
+        "projectPath": "C:\\Users\\JoãoVitorMacedo\\source\\repos\\TDS\\Aula4\\AtividadeAPI1\\AtividadeAPI1\\AtividadeAPI1.csproj",
         "packagesPath": "C:\\Users\\JoãoVitorMacedo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\JoãoVitorMacedo\\Source\\Repos\\TDS\\AtividadeAPI1\\AtividadeAPI1\\obj\\",
+        "outputPath": "C:\\Users\\JoãoVitorMacedo\\source\\repos\\TDS\\Aula4\\AtividadeAPI1\\AtividadeAPI1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\JoãoVitorMacedo\\AppData\\Roaming\\NuGet\\NuGet.Config",
